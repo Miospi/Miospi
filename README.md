@@ -3,10 +3,10 @@
 ![image](https://user-images.githubusercontent.com/69522509/198098942-d1bd66a2-a6f5-43d0-9a1b-128c93892405.png)
 
 
-Actualmente estudiante de Ingenieria en sistemas y telecomunicaciones
+***Actualmente estudiante de Ingenieria en sistemas y telecomunicaciones 💻
 
  ### 🎯 Alguna tecnologias que uso  
-      <>-JAVA</>
+      -JAVA
       -JAVASCRIPT
       -CSS
       -HTMl
